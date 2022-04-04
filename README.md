@@ -11,7 +11,7 @@ then click save,
 Name the bookmark if you so chose. 
                                      
 New Facts So if your School Uses lightspeed agent too block you can unblock it by getting the URL of the video,
-and then go to this link: https://y2mate.tools,
+and then go to this link: https://y2mate.mx/en20,
 from there type in the URL,
 then click download it,
 then it will show the video unblocked,
