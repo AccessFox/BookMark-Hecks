@@ -14,8 +14,4 @@ New Facts So if your School Uses lightspeed agent too block you can unblock it b
 and then go to this link: https://y2mate.mx/en20,
 from there type in the URL,
 then choise your mp4 file and download it 
-then download the OGG file and go to this link: https://www.freeconvert.com/ogg-to-mp3/download
-and put in the OGG
-then go to https://www.wevideo.com/hub
-then combine the mp3 and mp4 files,
-then you have the video.
+the video has the audio in it so dont download the OGG to get the mp3 and dont get the mp3 mainly because it does not work
